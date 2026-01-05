@@ -1,3 +1,6 @@
+-> JetBraninsMono *
+-> Cascadia (terminal)
+
+Outras não utilizadas:
 -> Anonymous Pro
 -> Inter 4.0
--> JetBraninsMono
